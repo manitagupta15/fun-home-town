@@ -39,10 +39,14 @@ img {
     font-size: 20px;
     color: #630f0f; 
     padding: 2px; 
+    margin-left: auto;
+    margin-right: auto ;
     font-weight: bold;
 }
 
 .text-img:hover{
+
+
     font-weight: bolder;
     color: #5112aa;
 }
