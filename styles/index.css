@@ -15,13 +15,11 @@ img {
 
 
 .images  {
-    display: flex;
+    display: grid;
 
   }
   
 .img1 {
-
-    flex-direction: row-reverse;
 
     padding: 1px;
   }
