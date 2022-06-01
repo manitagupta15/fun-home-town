@@ -32,6 +32,9 @@ p,ul {
 }
 
 h1{
+    display: flex;
+    justify-content: center;
+    align-self: center;
     color:midnightblue;
 }
 
