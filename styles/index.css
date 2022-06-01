@@ -76,3 +76,12 @@ h1{
 h2 {
     color:teal;
 }
+
+.top{
+   text-align: right;
+}
+
+.top:hover{
+    font-weight: bolder;
+    color: #5112aa;
+}
