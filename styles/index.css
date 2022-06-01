@@ -5,6 +5,36 @@
     margin-right: 10px;
 }
 
-#mustard {
-    align-content: center;
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.img1 {
+    display: block;
+    margin-left: 1px;
+    margin-right: 1px;
+    width: 90%;
+    height: 90%;
+
+}
+
+th {
+    display:inline-flexbox;
+    margin-left: 1px;
+    margin-right: auto;
+}
+
+p,ul {
+    font-size: 18px;
+}
+
+h1{
+    color:midnightblue;
+}
+
+h2 {
+    color:teal;
 }
