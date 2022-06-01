@@ -15,14 +15,21 @@ img {
 
 
 .images  {
-    display: grid;
+    display: flex;
+    flex-direction: row;
 
+}
+
+@media (max-width: 800px) {
+    .images {
+      flex-direction: column;
+    }
   }
   
+  
 .img1 {
-
-    padding: 1px;
-  }
+padding: 1px;
+}
 .img2{ 
      border-radius: 30%;
      width: 300px;
