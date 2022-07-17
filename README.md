@@ -1,4 +1,6 @@
-# fun-home-town-html
+# fun-home-town
+
+https://manitagupta15.github.io/fun-home-town/
 
 This Project demonstrate HTML and CSS skills by building a site about a place called Sri Ganganagar in the state of Rajasthan, India.
 
